@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EqualArray\EqualArray\bin\Debug\netcoreapp2.1\EqualArray.deps.json
+C:\Users\User\source\repos\EqualArray\EqualArray\bin\Debug\netcoreapp2.1\EqualArray.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\EqualArray\bin\Debug\netcoreapp2.1\EqualArray.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\EqualArray\bin\Debug\netcoreapp2.1\EqualArray.dll
+C:\Users\User\source\repos\EqualArray\EqualArray\bin\Debug\netcoreapp2.1\EqualArray.pdb
+C:\Users\User\source\repos\EqualArray\EqualArray\obj\Debug\netcoreapp2.1\EqualArray.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\EqualArray\obj\Debug\netcoreapp2.1\EqualArray.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\EqualArray\obj\Debug\netcoreapp2.1\EqualArray.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\EqualArray\obj\Debug\netcoreapp2.1\EqualArray.dll
+C:\Users\User\source\repos\EqualArray\EqualArray\obj\Debug\netcoreapp2.1\EqualArray.pdb

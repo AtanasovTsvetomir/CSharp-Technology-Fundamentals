@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EqualArray\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.deps.json
+C:\Users\User\source\repos\EqualArray\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.dll
+C:\Users\User\source\repos\EqualArray\MagicSum\bin\Debug\netcoreapp2.1\MagicSum.pdb
+C:\Users\User\source\repos\EqualArray\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.dll
+C:\Users\User\source\repos\EqualArray\MagicSum\obj\Debug\netcoreapp2.1\MagicSum.pdb

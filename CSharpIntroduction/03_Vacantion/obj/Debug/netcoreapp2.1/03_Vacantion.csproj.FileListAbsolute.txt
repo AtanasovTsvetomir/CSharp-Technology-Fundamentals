@@ -1,0 +1,11 @@
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\bin\Debug\netcoreapp2.1\03_Vacantion.deps.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\bin\Debug\netcoreapp2.1\03_Vacantion.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\bin\Debug\netcoreapp2.1\03_Vacantion.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\bin\Debug\netcoreapp2.1\03_Vacantion.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\bin\Debug\netcoreapp2.1\03_Vacantion.pdb
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.csprojAssemblyReference.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\03_Vacantion\obj\Debug\netcoreapp2.1\03_Vacantion.pdb

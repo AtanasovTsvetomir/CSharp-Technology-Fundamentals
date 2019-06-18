@@ -1,0 +1,11 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\bin\Debug\netcoreapp2.1\SumDigits.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\bin\Debug\netcoreapp2.1\SumDigits.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\bin\Debug\netcoreapp2.1\SumDigits.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\bin\Debug\netcoreapp2.1\SumDigits.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\bin\Debug\netcoreapp2.1\SumDigits.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.csprojAssemblyReference.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumDigits\obj\Debug\netcoreapp2.1\SumDigits.pdb

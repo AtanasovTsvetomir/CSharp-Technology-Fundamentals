@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\bin\Debug\netcoreapp2.1\05_Login.deps.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\bin\Debug\netcoreapp2.1\05_Login.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\bin\Debug\netcoreapp2.1\05_Login.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\bin\Debug\netcoreapp2.1\05_Login.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\bin\Debug\netcoreapp2.1\05_Login.pdb
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\obj\Debug\netcoreapp2.1\05_Login.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\obj\Debug\netcoreapp2.1\05_Login.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\obj\Debug\netcoreapp2.1\05_Login.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\obj\Debug\netcoreapp2.1\05_Login.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\05_Login\obj\Debug\netcoreapp2.1\05_Login.pdb

@@ -1,0 +1,11 @@
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\bin\Debug\netcoreapp2.1\07_VendingMachine.deps.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\bin\Debug\netcoreapp2.1\07_VendingMachine.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\bin\Debug\netcoreapp2.1\07_VendingMachine.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\bin\Debug\netcoreapp2.1\07_VendingMachine.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\bin\Debug\netcoreapp2.1\07_VendingMachine.pdb
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.csprojAssemblyReference.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\07_VendingMachine\obj\Debug\netcoreapp2.1\07_VendingMachine.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EqualArray\ArrayRottation\bin\Debug\netcoreapp2.1\ArrayRottation.deps.json
+C:\Users\User\source\repos\EqualArray\ArrayRottation\bin\Debug\netcoreapp2.1\ArrayRottation.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\ArrayRottation\bin\Debug\netcoreapp2.1\ArrayRottation.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\ArrayRottation\bin\Debug\netcoreapp2.1\ArrayRottation.dll
+C:\Users\User\source\repos\EqualArray\ArrayRottation\bin\Debug\netcoreapp2.1\ArrayRottation.pdb
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.dll
+C:\Users\User\source\repos\EqualArray\ArrayRottation\obj\Debug\netcoreapp2.1\ArrayRottation.pdb

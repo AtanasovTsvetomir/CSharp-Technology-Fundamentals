@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\bin\Debug\netcoreapp2.1\CondenseArrayNumber.deps.json
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\bin\Debug\netcoreapp2.1\CondenseArrayNumber.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\bin\Debug\netcoreapp2.1\CondenseArrayNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\bin\Debug\netcoreapp2.1\CondenseArrayNumber.dll
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\bin\Debug\netcoreapp2.1\CondenseArrayNumber.pdb
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\obj\Debug\netcoreapp2.1\CondenseArrayNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\obj\Debug\netcoreapp2.1\CondenseArrayNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\obj\Debug\netcoreapp2.1\CondenseArrayNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\obj\Debug\netcoreapp2.1\CondenseArrayNumber.dll
+C:\Users\User\source\repos\EqualArray\CondenseArrayNumber\obj\Debug\netcoreapp2.1\CondenseArrayNumber.pdb

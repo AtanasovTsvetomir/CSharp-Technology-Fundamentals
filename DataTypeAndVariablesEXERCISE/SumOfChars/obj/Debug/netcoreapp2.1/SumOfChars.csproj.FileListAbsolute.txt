@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.pdb

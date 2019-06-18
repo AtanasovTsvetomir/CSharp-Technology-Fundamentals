@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\bin\Debug\netcoreapp2.1\04_PrintAndSum.deps.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\bin\Debug\netcoreapp2.1\04_PrintAndSum.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\bin\Debug\netcoreapp2.1\04_PrintAndSum.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\bin\Debug\netcoreapp2.1\04_PrintAndSum.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\bin\Debug\netcoreapp2.1\04_PrintAndSum.pdb
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\obj\Debug\netcoreapp2.1\04_PrintAndSum.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\obj\Debug\netcoreapp2.1\04_PrintAndSum.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\obj\Debug\netcoreapp2.1\04_PrintAndSum.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\obj\Debug\netcoreapp2.1\04_PrintAndSum.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\04_PrintAndSum\obj\Debug\netcoreapp2.1\04_PrintAndSum.pdb

@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\bin\Debug\netcoreapp2.1\01_Ages.deps.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\bin\Debug\netcoreapp2.1\01_Ages.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\bin\Debug\netcoreapp2.1\01_Ages.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\bin\Debug\netcoreapp2.1\01_Ages.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\bin\Debug\netcoreapp2.1\01_Ages.pdb
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\obj\Debug\netcoreapp2.1\01_Ages.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\obj\Debug\netcoreapp2.1\01_Ages.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\obj\Debug\netcoreapp2.1\01_Ages.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\obj\Debug\netcoreapp2.1\01_Ages.dll
+C:\SoftUni\TECH - MODULE\CSharpIntroduction\01_Ages\obj\Debug\netcoreapp2.1\01_Ages.pdb
