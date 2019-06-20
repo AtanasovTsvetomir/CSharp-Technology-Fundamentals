@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\bin\Debug\netcoreapp2.1\WordFilter.deps.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\bin\Debug\netcoreapp2.1\WordFilter.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\bin\Debug\netcoreapp2.1\WordFilter.runtimeconfig.dev.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\bin\Debug\netcoreapp2.1\WordFilter.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\bin\Debug\netcoreapp2.1\WordFilter.pdb
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\obj\Debug\netcoreapp2.1\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\obj\Debug\netcoreapp2.1\WordFilter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\obj\Debug\netcoreapp2.1\WordFilter.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\obj\Debug\netcoreapp2.1\WordFilter.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\WordFilter\obj\Debug\netcoreapp2.1\WordFilter.pdb

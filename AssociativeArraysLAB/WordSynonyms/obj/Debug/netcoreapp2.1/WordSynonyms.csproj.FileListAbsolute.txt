@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\bin\Debug\netcoreapp2.1\WordSynonyms.deps.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\bin\Debug\netcoreapp2.1\WordSynonyms.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\bin\Debug\netcoreapp2.1\WordSynonyms.runtimeconfig.dev.json
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\bin\Debug\netcoreapp2.1\WordSynonyms.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\bin\Debug\netcoreapp2.1\WordSynonyms.pdb
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\obj\Debug\netcoreapp2.1\WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\obj\Debug\netcoreapp2.1\WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\obj\Debug\netcoreapp2.1\WordSynonyms.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\obj\Debug\netcoreapp2.1\WordSynonyms.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\WordSynonyms\obj\Debug\netcoreapp2.1\WordSynonyms.pdb

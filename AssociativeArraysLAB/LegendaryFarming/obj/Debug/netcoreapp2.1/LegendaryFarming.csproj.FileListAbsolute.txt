@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\AssociativeArraysLAB\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfo.cs
