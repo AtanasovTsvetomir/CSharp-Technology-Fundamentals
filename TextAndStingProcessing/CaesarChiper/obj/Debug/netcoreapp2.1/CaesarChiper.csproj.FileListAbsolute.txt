@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\bin\Debug\netcoreapp2.1\CaesarChiper.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\bin\Debug\netcoreapp2.1\CaesarChiper.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\bin\Debug\netcoreapp2.1\CaesarChiper.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\bin\Debug\netcoreapp2.1\CaesarChiper.dll
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\bin\Debug\netcoreapp2.1\CaesarChiper.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.dll
+C:\Users\User\source\repos\TextAndStingProcessing\CaesarChiper\obj\Debug\netcoreapp2.1\CaesarChiper.pdb

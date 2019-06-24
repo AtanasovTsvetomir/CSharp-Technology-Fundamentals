@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\bin\Debug\netcoreapp2.1\MethodDeclarations.deps.json
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\bin\Debug\netcoreapp2.1\MethodDeclarations.runtimeconfig.json
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\bin\Debug\netcoreapp2.1\MethodDeclarations.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\bin\Debug\netcoreapp2.1\MethodDeclarations.dll
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\bin\Debug\netcoreapp2.1\MethodDeclarations.pdb
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.dll
+C:\Users\User\source\repos\MethodsLab\MethodDeclarations\obj\Debug\netcoreapp2.1\MethodDeclarations.pdb

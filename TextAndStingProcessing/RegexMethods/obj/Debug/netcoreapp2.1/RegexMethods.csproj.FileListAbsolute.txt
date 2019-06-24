@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\bin\Debug\netcoreapp2.1\RegexMethods.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\bin\Debug\netcoreapp2.1\RegexMethods.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\bin\Debug\netcoreapp2.1\RegexMethods.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\bin\Debug\netcoreapp2.1\RegexMethods.dll
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\bin\Debug\netcoreapp2.1\RegexMethods.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\obj\Debug\netcoreapp2.1\RegexMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\obj\Debug\netcoreapp2.1\RegexMethods.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\obj\Debug\netcoreapp2.1\RegexMethods.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\obj\Debug\netcoreapp2.1\RegexMethods.dll
+C:\Users\User\source\repos\TextAndStingProcessing\RegexMethods\obj\Debug\netcoreapp2.1\RegexMethods.pdb

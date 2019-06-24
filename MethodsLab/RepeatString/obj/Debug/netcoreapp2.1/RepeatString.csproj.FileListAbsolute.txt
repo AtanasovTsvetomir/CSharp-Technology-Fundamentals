@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MethodsLab\RepeatString\bin\Debug\netcoreapp2.1\RepeatString.deps.json
+C:\Users\User\source\repos\MethodsLab\RepeatString\bin\Debug\netcoreapp2.1\RepeatString.runtimeconfig.json
+C:\Users\User\source\repos\MethodsLab\RepeatString\bin\Debug\netcoreapp2.1\RepeatString.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsLab\RepeatString\bin\Debug\netcoreapp2.1\RepeatString.dll
+C:\Users\User\source\repos\MethodsLab\RepeatString\bin\Debug\netcoreapp2.1\RepeatString.pdb
+C:\Users\User\source\repos\MethodsLab\RepeatString\obj\Debug\netcoreapp2.1\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsLab\RepeatString\obj\Debug\netcoreapp2.1\RepeatString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsLab\RepeatString\obj\Debug\netcoreapp2.1\RepeatString.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsLab\RepeatString\obj\Debug\netcoreapp2.1\RepeatString.dll
+C:\Users\User\source\repos\MethodsLab\RepeatString\obj\Debug\netcoreapp2.1\RepeatString.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\bin\Debug\netcoreapp2.1\MatchNumber.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\bin\Debug\netcoreapp2.1\MatchNumber.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\bin\Debug\netcoreapp2.1\MatchNumber.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\bin\Debug\netcoreapp2.1\MatchNumber.dll
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\bin\Debug\netcoreapp2.1\MatchNumber.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\obj\Debug\netcoreapp2.1\MatchNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\obj\Debug\netcoreapp2.1\MatchNumber.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\obj\Debug\netcoreapp2.1\MatchNumber.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\obj\Debug\netcoreapp2.1\MatchNumber.dll
+C:\Users\User\source\repos\TextAndStingProcessing\MatchNumber\obj\Debug\netcoreapp2.1\MatchNumber.pdb

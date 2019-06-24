@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\bin\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.dll
+C:\Users\User\source\repos\TextAndStingProcessing\ReplaceRepeatingChars\obj\Debug\netcoreapp2.1\ReplaceRepeatingChars.pdb

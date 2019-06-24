@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.dll
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\bin\Debug\netcoreapp2.1\StringExplosion.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.dll
+C:\Users\User\source\repos\TextAndStingProcessing\StringExplosion\obj\Debug\netcoreapp2.1\StringExplosion.pdb
