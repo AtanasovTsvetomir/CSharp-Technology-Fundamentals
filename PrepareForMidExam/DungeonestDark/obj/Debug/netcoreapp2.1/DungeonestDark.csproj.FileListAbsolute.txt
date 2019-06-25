@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\bin\Debug\netcoreapp2.1\DungeonestDark.deps.json
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\bin\Debug\netcoreapp2.1\DungeonestDark.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\bin\Debug\netcoreapp2.1\DungeonestDark.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\bin\Debug\netcoreapp2.1\DungeonestDark.dll
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\bin\Debug\netcoreapp2.1\DungeonestDark.pdb
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.dll
+C:\Users\User\source\repos\PrepareForMidExam\DungeonestDark\obj\Debug\netcoreapp2.1\DungeonestDark.pdb

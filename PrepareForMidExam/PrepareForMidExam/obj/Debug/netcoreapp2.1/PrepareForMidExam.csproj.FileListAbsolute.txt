@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\bin\Debug\netcoreapp2.1\PrepareForMidExam.deps.json
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\bin\Debug\netcoreapp2.1\PrepareForMidExam.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\bin\Debug\netcoreapp2.1\PrepareForMidExam.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\bin\Debug\netcoreapp2.1\PrepareForMidExam.dll
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\bin\Debug\netcoreapp2.1\PrepareForMidExam.pdb
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.dll
+C:\Users\User\source\repos\PrepareForMidExam\PrepareForMidExam\obj\Debug\netcoreapp2.1\PrepareForMidExam.pdb

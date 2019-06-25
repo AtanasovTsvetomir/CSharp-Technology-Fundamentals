@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\bin\Debug\netcoreapp2.1\SoftUniCoffeOrder.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\bin\Debug\netcoreapp2.1\SoftUniCoffeOrder.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\bin\Debug\netcoreapp2.1\SoftUniCoffeOrder.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\bin\Debug\netcoreapp2.1\SoftUniCoffeOrder.dll
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\bin\Debug\netcoreapp2.1\SoftUniCoffeOrder.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.dll
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniCoffeOrder\obj\Debug\netcoreapp2.1\SoftUniCoffeOrder.pdb

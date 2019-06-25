@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\bin\Debug\netcoreapp2.1\dasdasdad7.deps.json
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\bin\Debug\netcoreapp2.1\dasdasdad7.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\bin\Debug\netcoreapp2.1\dasdasdad7.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\bin\Debug\netcoreapp2.1\dasdasdad7.dll
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\bin\Debug\netcoreapp2.1\dasdasdad7.pdb
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.dll
+C:\Users\User\source\repos\PrepareForMidExam\dasdasdad7\obj\Debug\netcoreapp2.1\dasdasdad7.pdb

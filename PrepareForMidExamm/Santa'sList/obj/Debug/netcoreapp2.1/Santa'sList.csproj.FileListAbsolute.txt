@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\bin\Debug\netcoreapp2.1\Santa'sList.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\bin\Debug\netcoreapp2.1\Santa'sList.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\bin\Debug\netcoreapp2.1\Santa'sList.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\bin\Debug\netcoreapp2.1\Santa'sList.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\bin\Debug\netcoreapp2.1\Santa'sList.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\obj\Debug\netcoreapp2.1\Santa'sList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\obj\Debug\netcoreapp2.1\Santa'sList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\obj\Debug\netcoreapp2.1\Santa'sList.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\obj\Debug\netcoreapp2.1\Santa'sList.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sList\obj\Debug\netcoreapp2.1\Santa'sList.pdb

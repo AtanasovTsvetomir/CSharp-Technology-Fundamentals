@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\bin\Debug\netcoreapp2.1\Santa'sCookie.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\bin\Debug\netcoreapp2.1\Santa'sCookie.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\bin\Debug\netcoreapp2.1\Santa'sCookie.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\bin\Debug\netcoreapp2.1\Santa'sCookie.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\bin\Debug\netcoreapp2.1\Santa'sCookie.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sCookie\obj\Debug\netcoreapp2.1\Santa'sCookie.pdb
