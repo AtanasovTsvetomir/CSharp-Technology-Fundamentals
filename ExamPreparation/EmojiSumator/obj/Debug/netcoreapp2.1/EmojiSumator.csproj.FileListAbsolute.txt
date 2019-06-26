@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.deps.json
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.dll
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.pdb
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.dll
+C:\Users\User\source\repos\ExamPreparation\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.pdb

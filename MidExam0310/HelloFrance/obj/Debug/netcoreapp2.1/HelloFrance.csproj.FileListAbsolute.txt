@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MidExam0310\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.deps.json
+C:\Users\User\source\repos\MidExam0310\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.runtimeconfig.json
+C:\Users\User\source\repos\MidExam0310\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.runtimeconfig.dev.json
+C:\Users\User\source\repos\MidExam0310\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.dll
+C:\Users\User\source\repos\MidExam0310\HelloFrance\bin\Debug\netcoreapp2.1\HelloFrance.pdb
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.AssemblyInfo.cs
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.dll
+C:\Users\User\source\repos\MidExam0310\HelloFrance\obj\Debug\netcoreapp2.1\HelloFrance.pdb

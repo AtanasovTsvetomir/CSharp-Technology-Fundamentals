@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\bin\Debug\netcoreapp2.1\SpringVacantionTrip.deps.json
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\bin\Debug\netcoreapp2.1\SpringVacantionTrip.runtimeconfig.json
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\bin\Debug\netcoreapp2.1\SpringVacantionTrip.runtimeconfig.dev.json
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\bin\Debug\netcoreapp2.1\SpringVacantionTrip.dll
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\bin\Debug\netcoreapp2.1\SpringVacantionTrip.pdb
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.AssemblyInfo.cs
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.dll
+C:\Users\User\source\repos\MidExam0310\SpringVacantionTrip\obj\Debug\netcoreapp2.1\SpringVacantionTrip.pdb
