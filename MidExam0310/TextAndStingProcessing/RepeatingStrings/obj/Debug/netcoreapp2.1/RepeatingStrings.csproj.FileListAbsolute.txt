@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\bin\Debug\netcoreapp2.1\RepeatingStrings.deps.json
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\bin\Debug\netcoreapp2.1\RepeatingStrings.runtimeconfig.json
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\bin\Debug\netcoreapp2.1\RepeatingStrings.runtimeconfig.dev.json
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\bin\Debug\netcoreapp2.1\RepeatingStrings.dll
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\bin\Debug\netcoreapp2.1\RepeatingStrings.pdb
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.AssemblyInfo.cs
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.dll
+C:\Users\User\source\repos\TextAndStingProcessing\RepeatingStrings\obj\Debug\netcoreapp2.1\RepeatingStrings.pdb

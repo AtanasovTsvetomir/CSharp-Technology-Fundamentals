@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\bin\Debug\netcoreapp2.1\QuestsJournal.deps.json
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\bin\Debug\netcoreapp2.1\QuestsJournal.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\bin\Debug\netcoreapp2.1\QuestsJournal.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\bin\Debug\netcoreapp2.1\QuestsJournal.dll
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\bin\Debug\netcoreapp2.1\QuestsJournal.pdb
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.dll
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.pdb
+C:\Users\User\source\repos\PrepareForMidExam\QuestsJournal\obj\Debug\netcoreapp2.1\QuestsJournal.csprojAssemblyReference.cache

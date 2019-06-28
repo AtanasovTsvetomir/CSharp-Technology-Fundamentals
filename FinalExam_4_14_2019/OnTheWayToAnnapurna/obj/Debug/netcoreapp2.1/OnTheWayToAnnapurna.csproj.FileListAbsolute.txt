@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\OnTheWayToAnnapurna.deps.json
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\OnTheWayToAnnapurna.runtimeconfig.json
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\OnTheWayToAnnapurna.runtimeconfig.dev.json
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\OnTheWayToAnnapurna.dll
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\bin\Debug\netcoreapp2.1\OnTheWayToAnnapurna.pdb
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.AssemblyInfo.cs
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.dll
+C:\Users\User\source\repos\FinalExam_4_14_2019\OnTheWayToAnnapurna\obj\Debug\netcoreapp2.1\OnTheWayToAnnapurna.pdb

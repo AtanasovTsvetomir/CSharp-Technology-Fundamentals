@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MidExam0310\LastStop\bin\Debug\netcoreapp2.1\LastStop.deps.json
+C:\Users\User\source\repos\MidExam0310\LastStop\bin\Debug\netcoreapp2.1\LastStop.runtimeconfig.json
+C:\Users\User\source\repos\MidExam0310\LastStop\bin\Debug\netcoreapp2.1\LastStop.runtimeconfig.dev.json
+C:\Users\User\source\repos\MidExam0310\LastStop\bin\Debug\netcoreapp2.1\LastStop.dll
+C:\Users\User\source\repos\MidExam0310\LastStop\bin\Debug\netcoreapp2.1\LastStop.pdb
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.AssemblyInfo.cs
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.dll
+C:\Users\User\source\repos\MidExam0310\LastStop\obj\Debug\netcoreapp2.1\LastStop.pdb

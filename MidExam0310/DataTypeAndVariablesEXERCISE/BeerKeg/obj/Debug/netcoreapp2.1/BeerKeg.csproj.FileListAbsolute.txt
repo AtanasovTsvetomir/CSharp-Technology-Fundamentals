@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\bin\Debug\netcoreapp2.1\BeerKeg.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\bin\Debug\netcoreapp2.1\BeerKeg.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\bin\Debug\netcoreapp2.1\BeerKeg.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\bin\Debug\netcoreapp2.1\BeerKeg.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\bin\Debug\netcoreapp2.1\BeerKeg.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\obj\Debug\netcoreapp2.1\BeerKeg.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\obj\Debug\netcoreapp2.1\BeerKeg.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\obj\Debug\netcoreapp2.1\BeerKeg.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\obj\Debug\netcoreapp2.1\BeerKeg.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\BeerKeg\obj\Debug\netcoreapp2.1\BeerKeg.pdb

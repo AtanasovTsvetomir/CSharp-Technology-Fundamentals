@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\SignOfIntegerNumbers.deps.json
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\SignOfIntegerNumbers.dll
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\bin\Debug\netcoreapp2.1\SignOfIntegerNumbers.pdb
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.dll
+C:\Users\User\source\repos\MethodsLab\SignOfIntegerNumbers\obj\Debug\netcoreapp2.1\SignOfIntegerNumbers.pdb

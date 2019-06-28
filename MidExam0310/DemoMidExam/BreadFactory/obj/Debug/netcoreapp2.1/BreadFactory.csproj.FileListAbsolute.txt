@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.AssemblyInfo.cs
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\bin\Debug\netcoreapp2.1\BreadFactory.deps.json
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\bin\Debug\netcoreapp2.1\BreadFactory.runtimeconfig.json
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\bin\Debug\netcoreapp2.1\BreadFactory.runtimeconfig.dev.json
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\bin\Debug\netcoreapp2.1\BreadFactory.dll
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\bin\Debug\netcoreapp2.1\BreadFactory.pdb
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.dll
+C:\Users\User\source\repos\DemoMidExam\BreadFactory\obj\Debug\netcoreapp2.1\BreadFactory.pdb

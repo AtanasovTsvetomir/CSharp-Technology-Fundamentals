@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\bin\Debug\netcoreapp2.1\declaration.deps.json
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\bin\Debug\netcoreapp2.1\declaration.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\bin\Debug\netcoreapp2.1\declaration.runtimeconfig.dev.json
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\bin\Debug\netcoreapp2.1\declaration.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\bin\Debug\netcoreapp2.1\declaration.pdb
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\declaration\obj\Debug\netcoreapp2.1\declaration.pdb

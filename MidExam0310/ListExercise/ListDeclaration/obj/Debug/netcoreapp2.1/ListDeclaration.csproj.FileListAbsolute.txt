@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ListExercise\ListDeclaration\bin\Debug\netcoreapp2.1\ListDeclaration.deps.json
+C:\Users\User\source\repos\ListExercise\ListDeclaration\bin\Debug\netcoreapp2.1\ListDeclaration.runtimeconfig.json
+C:\Users\User\source\repos\ListExercise\ListDeclaration\bin\Debug\netcoreapp2.1\ListDeclaration.runtimeconfig.dev.json
+C:\Users\User\source\repos\ListExercise\ListDeclaration\bin\Debug\netcoreapp2.1\ListDeclaration.dll
+C:\Users\User\source\repos\ListExercise\ListDeclaration\bin\Debug\netcoreapp2.1\ListDeclaration.pdb
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.AssemblyInfo.cs
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.dll
+C:\Users\User\source\repos\ListExercise\ListDeclaration\obj\Debug\netcoreapp2.1\ListDeclaration.pdb

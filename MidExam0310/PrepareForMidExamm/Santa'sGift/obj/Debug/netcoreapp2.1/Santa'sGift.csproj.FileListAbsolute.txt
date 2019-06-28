@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\bin\Debug\netcoreapp2.1\Santa'sGift.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\bin\Debug\netcoreapp2.1\Santa'sGift.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\bin\Debug\netcoreapp2.1\Santa'sGift.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\bin\Debug\netcoreapp2.1\Santa'sGift.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\bin\Debug\netcoreapp2.1\Santa'sGift.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.dll
+C:\Users\User\source\repos\PrepareForMidExamm\Santa'sGift\obj\Debug\netcoreapp2.1\Santa'sGift.pdb

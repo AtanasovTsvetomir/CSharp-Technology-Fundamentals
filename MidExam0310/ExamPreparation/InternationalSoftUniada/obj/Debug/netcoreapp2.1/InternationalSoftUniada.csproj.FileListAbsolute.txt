@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\bin\Debug\netcoreapp2.1\InternationalSoftUniada.deps.json
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\bin\Debug\netcoreapp2.1\InternationalSoftUniada.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\bin\Debug\netcoreapp2.1\InternationalSoftUniada.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\bin\Debug\netcoreapp2.1\InternationalSoftUniada.dll
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\bin\Debug\netcoreapp2.1\InternationalSoftUniada.pdb
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\obj\Debug\netcoreapp2.1\InternationalSoftUniada.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\obj\Debug\netcoreapp2.1\InternationalSoftUniada.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\obj\Debug\netcoreapp2.1\InternationalSoftUniada.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\obj\Debug\netcoreapp2.1\InternationalSoftUniada.dll
+C:\Users\User\source\repos\ExamPreparation\InternationalSoftUniada\obj\Debug\netcoreapp2.1\InternationalSoftUniada.pdb

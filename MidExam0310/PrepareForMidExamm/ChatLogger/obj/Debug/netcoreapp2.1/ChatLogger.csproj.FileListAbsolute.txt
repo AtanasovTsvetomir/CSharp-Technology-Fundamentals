@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\bin\Debug\netcoreapp2.1\ChatLogger.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\bin\Debug\netcoreapp2.1\ChatLogger.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\bin\Debug\netcoreapp2.1\ChatLogger.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\bin\Debug\netcoreapp2.1\ChatLogger.dll
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\bin\Debug\netcoreapp2.1\ChatLogger.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.dll
+C:\Users\User\source\repos\PrepareForMidExamm\ChatLogger\obj\Debug\netcoreapp2.1\ChatLogger.pdb

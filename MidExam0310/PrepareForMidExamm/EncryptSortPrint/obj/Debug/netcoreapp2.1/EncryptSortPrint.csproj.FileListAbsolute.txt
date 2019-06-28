@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\bin\Debug\netcoreapp2.1\EncryptSortPrint.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\bin\Debug\netcoreapp2.1\EncryptSortPrint.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\bin\Debug\netcoreapp2.1\EncryptSortPrint.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\bin\Debug\netcoreapp2.1\EncryptSortPrint.dll
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\bin\Debug\netcoreapp2.1\EncryptSortPrint.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\obj\Debug\netcoreapp2.1\EncryptSortPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\obj\Debug\netcoreapp2.1\EncryptSortPrint.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\obj\Debug\netcoreapp2.1\EncryptSortPrint.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\obj\Debug\netcoreapp2.1\EncryptSortPrint.dll
+C:\Users\User\source\repos\PrepareForMidExamm\EncryptSortPrint\obj\Debug\netcoreapp2.1\EncryptSortPrint.pdb

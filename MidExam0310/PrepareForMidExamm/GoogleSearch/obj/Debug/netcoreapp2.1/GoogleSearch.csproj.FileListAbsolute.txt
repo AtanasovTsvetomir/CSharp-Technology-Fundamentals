@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\bin\Debug\netcoreapp2.1\GoogleSearch.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\bin\Debug\netcoreapp2.1\GoogleSearch.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\bin\Debug\netcoreapp2.1\GoogleSearch.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\bin\Debug\netcoreapp2.1\GoogleSearch.dll
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\bin\Debug\netcoreapp2.1\GoogleSearch.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.dll
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\GoogleSearch\obj\Debug\netcoreapp2.1\GoogleSearch.csprojAssemblyReference.cache

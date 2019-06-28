@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\bin\Debug\netcoreapp2.1\SantaNewList.deps.json
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\bin\Debug\netcoreapp2.1\SantaNewList.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\bin\Debug\netcoreapp2.1\SantaNewList.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\bin\Debug\netcoreapp2.1\SantaNewList.dll
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\bin\Debug\netcoreapp2.1\SantaNewList.pdb
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.dll
+C:\Users\User\source\repos\ExamPreparation\SantaNewList\obj\Debug\netcoreapp2.1\SantaNewList.pdb

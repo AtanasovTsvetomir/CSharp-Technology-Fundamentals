@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\bin\Debug\netcoreapp2.1\EncryptedSong.deps.json
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\bin\Debug\netcoreapp2.1\EncryptedSong.runtimeconfig.json
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\bin\Debug\netcoreapp2.1\EncryptedSong.runtimeconfig.dev.json
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\bin\Debug\netcoreapp2.1\EncryptedSong.dll
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\bin\Debug\netcoreapp2.1\EncryptedSong.pdb
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.dll
+C:\Users\User\source\repos\ExamPreparation\EncryptedSong\obj\Debug\netcoreapp2.1\EncryptedSong.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp2.1\Calculations.deps.json
+C:\Users\User\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp2.1\Calculations.runtimeconfig.json
+C:\Users\User\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp2.1\Calculations.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp2.1\Calculations.dll
+C:\Users\User\source\repos\MethodsLab\Calculations\bin\Debug\netcoreapp2.1\Calculations.pdb
+C:\Users\User\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp2.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp2.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp2.1\Calculations.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp2.1\Calculations.dll
+C:\Users\User\source\repos\MethodsLab\Calculations\obj\Debug\netcoreapp2.1\Calculations.pdb

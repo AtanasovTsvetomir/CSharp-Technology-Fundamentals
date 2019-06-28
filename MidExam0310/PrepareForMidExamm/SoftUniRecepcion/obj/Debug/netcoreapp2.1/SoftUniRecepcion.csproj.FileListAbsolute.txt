@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\bin\Debug\netcoreapp2.1\SoftUniRecepcion.deps.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\bin\Debug\netcoreapp2.1\SoftUniRecepcion.runtimeconfig.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\bin\Debug\netcoreapp2.1\SoftUniRecepcion.runtimeconfig.dev.json
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\bin\Debug\netcoreapp2.1\SoftUniRecepcion.dll
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\bin\Debug\netcoreapp2.1\SoftUniRecepcion.pdb
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.AssemblyInfo.cs
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.dll
+C:\Users\User\source\repos\PrepareForMidExamm\SoftUniRecepcion\obj\Debug\netcoreapp2.1\SoftUniRecepcion.pdb

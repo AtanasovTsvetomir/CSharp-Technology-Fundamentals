@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\bin\Debug\netcoreapp2.1\PrintPartOfTheASCII.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\bin\Debug\netcoreapp2.1\PrintPartOfTheASCII.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\bin\Debug\netcoreapp2.1\PrintPartOfTheASCII.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\bin\Debug\netcoreapp2.1\PrintPartOfTheASCII.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\bin\Debug\netcoreapp2.1\PrintPartOfTheASCII.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\obj\Debug\netcoreapp2.1\PrintPartOfTheASCII.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\obj\Debug\netcoreapp2.1\PrintPartOfTheASCII.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\obj\Debug\netcoreapp2.1\PrintPartOfTheASCII.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\obj\Debug\netcoreapp2.1\PrintPartOfTheASCII.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\PrintPartOfTheASCII\obj\Debug\netcoreapp2.1\PrintPartOfTheASCII.pdb

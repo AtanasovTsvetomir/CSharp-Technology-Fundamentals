@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.deps.json
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.dll
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\bin\Debug\netcoreapp2.1\ZigZagArrays.pdb
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.dll
+C:\Users\User\source\repos\EqualArray\ZigZagArrays\obj\Debug\netcoreapp2.1\ZigZagArrays.pdb

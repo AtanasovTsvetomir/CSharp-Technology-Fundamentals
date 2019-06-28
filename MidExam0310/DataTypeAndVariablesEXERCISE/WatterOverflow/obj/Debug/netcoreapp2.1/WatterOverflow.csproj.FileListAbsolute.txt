@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\bin\Debug\netcoreapp2.1\WatterOverflow.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\bin\Debug\netcoreapp2.1\WatterOverflow.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\bin\Debug\netcoreapp2.1\WatterOverflow.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\bin\Debug\netcoreapp2.1\WatterOverflow.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\bin\Debug\netcoreapp2.1\WatterOverflow.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\obj\Debug\netcoreapp2.1\WatterOverflow.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\obj\Debug\netcoreapp2.1\WatterOverflow.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\obj\Debug\netcoreapp2.1\WatterOverflow.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\obj\Debug\netcoreapp2.1\WatterOverflow.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\WatterOverflow\obj\Debug\netcoreapp2.1\WatterOverflow.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\bin\Debug\netcoreapp2.1\SantaLists.deps.json
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\bin\Debug\netcoreapp2.1\SantaLists.runtimeconfig.json
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\bin\Debug\netcoreapp2.1\SantaLists.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\bin\Debug\netcoreapp2.1\SantaLists.dll
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\bin\Debug\netcoreapp2.1\SantaLists.pdb
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.AssemblyInfo.cs
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.dll
+C:\Users\User\source\repos\TechExamPreparation18December2018\SantaLists\obj\Debug\netcoreapp2.1\SantaLists.pdb

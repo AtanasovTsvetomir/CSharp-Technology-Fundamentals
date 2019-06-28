@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\bin\Debug\netcoreapp2.1\MultiplyEvenByOdds.deps.json
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\bin\Debug\netcoreapp2.1\MultiplyEvenByOdds.runtimeconfig.json
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\bin\Debug\netcoreapp2.1\MultiplyEvenByOdds.runtimeconfig.dev.json
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\bin\Debug\netcoreapp2.1\MultiplyEvenByOdds.dll
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\bin\Debug\netcoreapp2.1\MultiplyEvenByOdds.pdb
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.AssemblyInfo.cs
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.dll
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.pdb
+C:\Users\User\source\repos\MethodsLab\MultiplyEvenByOdds\obj\Debug\netcoreapp2.1\MultiplyEvenByOdds.csprojAssemblyReference.cache

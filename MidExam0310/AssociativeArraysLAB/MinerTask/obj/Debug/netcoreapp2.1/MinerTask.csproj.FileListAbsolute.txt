@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\bin\Debug\netcoreapp2.1\MinerTask.deps.json
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\bin\Debug\netcoreapp2.1\MinerTask.runtimeconfig.json
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\bin\Debug\netcoreapp2.1\MinerTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\bin\Debug\netcoreapp2.1\MinerTask.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\bin\Debug\netcoreapp2.1\MinerTask.pdb
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.dll
+C:\Users\User\source\repos\AssociativeArraysLAB\MinerTask\obj\Debug\netcoreapp2.1\MinerTask.pdb

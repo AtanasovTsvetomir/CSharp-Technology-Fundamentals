@@ -1,0 +1,10 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\bin\Debug\netcoreapp2.1\TrippleOfLatinLetters.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\bin\Debug\netcoreapp2.1\TrippleOfLatinLetters.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\bin\Debug\netcoreapp2.1\TrippleOfLatinLetters.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\bin\Debug\netcoreapp2.1\TrippleOfLatinLetters.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\bin\Debug\netcoreapp2.1\TrippleOfLatinLetters.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\obj\Debug\netcoreapp2.1\TrippleOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\obj\Debug\netcoreapp2.1\TrippleOfLatinLetters.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\obj\Debug\netcoreapp2.1\TrippleOfLatinLetters.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\obj\Debug\netcoreapp2.1\TrippleOfLatinLetters.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\TrippleOfLatinLetters\obj\Debug\netcoreapp2.1\TrippleOfLatinLetters.pdb

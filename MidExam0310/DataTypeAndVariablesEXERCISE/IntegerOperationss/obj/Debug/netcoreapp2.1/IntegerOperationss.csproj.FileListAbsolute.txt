@@ -1,0 +1,11 @@
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\bin\Debug\netcoreapp2.1\IntegerOperationss.deps.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\bin\Debug\netcoreapp2.1\IntegerOperationss.runtimeconfig.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\bin\Debug\netcoreapp2.1\IntegerOperationss.runtimeconfig.dev.json
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\bin\Debug\netcoreapp2.1\IntegerOperationss.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\bin\Debug\netcoreapp2.1\IntegerOperationss.pdb
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.csprojAssemblyReference.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.csproj.CoreCompileInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.AssemblyInfoInputs.cache
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.AssemblyInfo.cs
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.dll
+C:\SoftUni\TECH - MODULE\DataTypeAndVariablesEXERCISE\Solution1\IntegerOperationss\obj\Debug\netcoreapp2.1\IntegerOperationss.pdb

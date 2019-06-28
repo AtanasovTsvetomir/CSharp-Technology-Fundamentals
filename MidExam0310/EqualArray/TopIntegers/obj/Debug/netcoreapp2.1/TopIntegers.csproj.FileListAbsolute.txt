@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\EqualArray\TopIntegers\bin\Debug\netcoreapp2.1\TopIntegers.deps.json
+C:\Users\User\source\repos\EqualArray\TopIntegers\bin\Debug\netcoreapp2.1\TopIntegers.runtimeconfig.json
+C:\Users\User\source\repos\EqualArray\TopIntegers\bin\Debug\netcoreapp2.1\TopIntegers.runtimeconfig.dev.json
+C:\Users\User\source\repos\EqualArray\TopIntegers\bin\Debug\netcoreapp2.1\TopIntegers.dll
+C:\Users\User\source\repos\EqualArray\TopIntegers\bin\Debug\netcoreapp2.1\TopIntegers.pdb
+C:\Users\User\source\repos\EqualArray\TopIntegers\obj\Debug\netcoreapp2.1\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EqualArray\TopIntegers\obj\Debug\netcoreapp2.1\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EqualArray\TopIntegers\obj\Debug\netcoreapp2.1\TopIntegers.AssemblyInfo.cs
+C:\Users\User\source\repos\EqualArray\TopIntegers\obj\Debug\netcoreapp2.1\TopIntegers.dll
+C:\Users\User\source\repos\EqualArray\TopIntegers\obj\Debug\netcoreapp2.1\TopIntegers.pdb
